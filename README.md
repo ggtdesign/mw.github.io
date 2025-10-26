@@ -6,6 +6,6 @@ Hierbei handelt es sich um einen Simulator der moderne Schusswaffen mit realisti
 -----
 
 [ENGLISH]
-Support and Privacy Policy for Moderne Waffen
+Support and Privacy Policy for Modern Weapons
 
 This is a simulator that depicts modern firearms with realistic sounds.
